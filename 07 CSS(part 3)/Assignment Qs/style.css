@@ -1,0 +1,53 @@
+    /* question 1  */
+/* div {
+    height: 150px;
+    width: 300px;
+    background-color: grey;
+    border: 5px dotted black;
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 2em;
+    padding: 1em;
+} */
+
+#outer {
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: pink;
+}
+
+.inner {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+div li {
+    display: inline;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+}
