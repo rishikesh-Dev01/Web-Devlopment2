@@ -1,0 +1,43 @@
+body {
+    margin-left: 20px;
+}
+
+.chats {
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    row-gap: 10;
+    font-style: italic;
+}
+
+.msg {
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 16px;
+    border-radius: 15px;
+}
+
+.button {
+    background-color: aquamarine;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+/* #btn {
+    margin-left: 100px;
+    margin-bottom: 25px;
+} */
+
+/* .msg, button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} */
